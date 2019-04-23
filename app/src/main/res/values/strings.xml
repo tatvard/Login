@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="next">next</string>
+    <string name="password">password</string>
+    <string name="title_registration">Registretion</string>
+    <string name="unableSign">Unable to Sign in</string>
+    <string name="newAccount">Create new Account</string>
+    <string name="signIn">Sign in</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintEmail">Email</string>
+    <string name="title_authorization">Authorization</string>
+    <string name="preference_file_key">\"com.example.login.PREFERENCE_FILE_KEY\"</string>
+    <string name="saved_user_name">User name</string>
+    <string name="saved_password">Password</string>
+    <string name="saved_phone">Phone</string>
+    <string name="hintName">Name</string>
+    <string name="hintConfPassword">Confirm password</string>
+</resources>
